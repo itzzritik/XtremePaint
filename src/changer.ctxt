@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=changer
+comment1.params=uiAction\ uiParam\ pvParam\ fWinIni
+comment1.target=int\ SystemParametersInfo(int,\ int,\ java.lang.String,\ int)
+comment2.params=path
+comment2.target=int\ Change(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

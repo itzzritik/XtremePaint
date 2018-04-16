@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DeleteDirectory
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=file
+comment2.target=void\ delete(java.io.File)
+numComments=3

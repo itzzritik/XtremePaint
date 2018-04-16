@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Dotted
-comment1.params=x\ y
-comment1.target=Dotted(int,\ int)
-comment2.params=
-comment2.target=int\ getStaerke()
-comment3.params=staerke
-comment3.target=void\ setStaerke(int)
-numComments=4

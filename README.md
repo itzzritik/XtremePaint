@@ -1,1 +1,1 @@
-# Xtreme-Paint
+# Xtreme Paint

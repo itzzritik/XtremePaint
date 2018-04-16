@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Print
+comment1.params=img\ pr
+comment1.target=Print(java.awt.image.BufferedImage,\ int)
+numComments=2

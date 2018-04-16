@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Composition
+comment1.params=
+comment1.target=int\ getStaerke()
+comment2.params=staerke
+comment2.target=void\ setStaerke(int)
+comment3.params=x\ y
+comment3.target=Composition(int,\ int)
+comment4.params=
+comment4.target=int\ getXZiel()
+comment5.params=ziel
+comment5.target=void\ setXZiel(int)
+comment6.params=
+comment6.target=int\ getYZiel()
+comment7.params=ziel
+comment7.target=void\ setYZiel(int)
+numComments=8

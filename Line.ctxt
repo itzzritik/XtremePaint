@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=
+comment1.target=int\ getStaerke()
+comment2.params=staerke
+comment2.target=void\ setStaerke(int)
+comment3.params=x\ y
+comment3.target=Line(int,\ int)
+comment4.params=
+comment4.target=int\ getBreite()
+comment5.params=breite
+comment5.target=void\ setBreite(int)
+comment6.params=
+comment6.target=int\ getHoehe()
+comment7.params=hoehe
+comment7.target=void\ setHoehe(int)
+numComments=8

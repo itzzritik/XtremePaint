@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Saver
+comment1.params=
+comment1.target=Saver()
+comment2.params=filename\ objekte\ drawing
+comment2.target=void\ save(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=File
+comment3.target=java.lang.String\ getExtention(java.lang.String)
+comment4.params=Stamps\ Frames\ Others\ Project\ SavePath
+comment4.target=void\ Saver(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+numComments=5

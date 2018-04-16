@@ -1,3 +1,5 @@
+package src;
+
 public class Tube extends CharObject 
 {
 	private int staerke;

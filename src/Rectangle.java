@@ -1,3 +1,5 @@
+package src;
+
   
 public class Rectangle extends CharObject 
 {	

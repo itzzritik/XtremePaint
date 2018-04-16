@@ -1,3 +1,5 @@
+package src;
+
 public class Frames extends CharObject
 {
 	int staerke;String frame;int im;

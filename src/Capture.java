@@ -1,3 +1,5 @@
+package src;
+
 import java.awt.image.*;
 import java.awt.Rectangle;
 import javax.swing.*;

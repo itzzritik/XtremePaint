@@ -1,3 +1,5 @@
+package src;
+
 import java.awt.Color;
 import java.io.Serializable;
 public class CharObject implements Serializable

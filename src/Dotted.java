@@ -1,3 +1,5 @@
+package src;
+
 public class Dotted extends CharObject 
 {
 	private int staerke;

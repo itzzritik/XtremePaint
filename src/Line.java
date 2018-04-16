@@ -1,3 +1,5 @@
+package src;
+
 public class Line extends CharObject
 {
 	private int hoehe;int staerke;

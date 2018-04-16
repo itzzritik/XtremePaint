@@ -1,3 +1,5 @@
+package src;
+
 public class Shape extends CharObject
 {
 	private int hoehe;int staerke;

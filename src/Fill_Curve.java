@@ -1,3 +1,5 @@
+package src;
+
 public class Fill_Curve extends CharObject
 {
 	private int xZiel;int staerke;

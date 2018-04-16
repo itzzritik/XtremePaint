@@ -1,3 +1,5 @@
+package src;
+
 import javax.swing.ImageIcon;import java.awt.Image;import java.awt.*;
 public class Stamp extends CharObject
 {

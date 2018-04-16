@@ -1,3 +1,5 @@
+package src;
+
 public class Tray extends CharObject 
 {
 	private int staerke;

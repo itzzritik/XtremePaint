@@ -1,3 +1,5 @@
+package src;
+
 public class Composition extends CharObject
 {
 	private int xZiel;int staerke;

@@ -1,3 +1,5 @@
+package src;
+
 public class Eraser extends CharObject 
 {
 	private int staerke,xZiel,yZiel;
